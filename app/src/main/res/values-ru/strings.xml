@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ментор</string>
+    <string name="login">Вход</string>
+    <string name="login_and_signup">Вход и регистрация</string>
+    <string name="signup">Регистрация</string>
+    <string name="chat">Чат</string>
+    <string name="search">Поиск</string>
+    <string name="admin">Админ</string>
+    <string name="mentor">Ментор</string>
+    <string name="student">Студент</string>
+    <string name="profiles_list">Список запросов</string>
+    <string name="profile">Запрос</string>
+    <string name="founded_profile">Найденый профиль</string>
+    <string name="password">Пароль</string>
+    <string name="error">Ошибка:</string>
+    <string name="loading">Загрузка</string>
+    <string name="i_already_have_an_account_login">Уже есть аккаунт, войти</string>
+    <string name="change">Изменить</string>
+    <string name="don_t_have_an_account_signup">Нет аккаунт, зарегестрируйся</string>
+    <string name="search_name">Поиск</string>
+    <string name="telegram_name">Тег в телеграмме</string>
+    <string name="description">Описание</string>
+    <string name="find_mentor">Найти ментора</string>
+    <string name="accepted">Подтвержден</string>
+    <string name="declined">Отклонен</string>
+    <string name="in_progress">В процессе</string>
+    <string name="login_name">Логин</string>
+</resources>

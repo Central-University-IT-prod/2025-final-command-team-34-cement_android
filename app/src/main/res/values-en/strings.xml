@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mentor</string>
+    <string name="login">Login</string>
+    <string name="login_and_signup">Login and signup</string>
+    <string name="signup">Signup</string>
+    <string name="chat">Chat</string>
+    <string name="search">Search</string>
+    <string name="admin">Admin</string>
+    <string name="mentor">Mentor</string>
+    <string name="student">Student</string>
+    <string name="profiles_list">Requests list</string>
+    <string name="profile">Request</string>
+    <string name="founded_profile">Founded profile</string>
+    <string name="password">password</string>
+    <string name="error">"Error: "</string>
+    <string name="loading">Loading</string>
+    <string name="don_t_have_an_account_signup">Don\'t have an account, Signup</string>
+    <string name="search_name">Search</string>
+    <string name="telegram_name">Telegram name</string>
+    <string name="description">Description</string>
+    <string name="i_already_have_an_account_login">I already have an account, Login</string>
+    <string name="change">Change</string>
+    <string name="find_mentor">Find mentor</string>
+    <string name="accepted">Accepted</string>
+    <string name="declined">Declined</string>
+    <string name="in_progress">In progress</string>
+    <string name="login_name">Login</string>
+</resources>
